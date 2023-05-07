@@ -1,0 +1,51 @@
+body {
+    background-color: #444;
+  }
+  
+  .ui-btn {
+    background-color: purple;
+    color: white;
+    text-shadow: none;
+  }
+  #home {
+    background-color: #444;
+  }
+  #navbar {
+    background-color: #444;
+  }
+  #home .ui-navbar {
+    background-color: #444;
+  }
+
+[data-role="page"] {
+    background-color: #444;
+  }
+  
+  
+  
+ 
+  [data-role="navbar"] a {
+    background-color: #333;
+    color: black;
+  }
+  
+ 
+  [data-role="navbar"] .ui-btn-active {
+    background-color: #555;
+  }
+  
+ 
+  [data-role="navbar"] .ui-icon {
+    background-color: #333;
+    color: white;
+  }
+  #noteEntry input[type="number"],
+  #noteEntry input[type="text"],
+  #noteEntry select {
+    background-color: #333;
+    color: whitesmoke;
+  }
+  [data-role="navbar"] {
+    background-color: blue;
+  }
+  
