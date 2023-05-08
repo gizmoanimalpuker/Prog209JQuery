@@ -48,4 +48,29 @@ body {
   [data-role="navbar"] {
     background-color: blue;
   }
-  
+  #navA{
+    background-color: #1569C7;
+    color:white;
+}
+#navB{
+    background-color: #2554C7;
+    color:white
+}
+#navB:hover{
+    background-color: #0000A5;
+}
+#homePage{
+    font-family: Aclonica;
+    color:#2554C7;
+    font-size: 40pt;
+    font-weight: bold;
+    text-align: center;
+}
+img {
+  max-width: 50%;
+  height: auto;
+}
+img[src="listImage.png"] {
+  width: 400px;
+  height: 400px;
+}
